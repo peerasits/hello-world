@@ -6,7 +6,7 @@ abstract class Animal{
 	private int age;
 	private double weight;
 	
-	Animal1(String name, String age, String weight){
+	Animal(String name, String age, String weight){
 		this.name = name;
 		this.age = Integer.parseInt(age);
 		this.weight = Double.parseDouble(weight);
