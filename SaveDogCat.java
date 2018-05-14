@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-abstract class Animal1 {
+abstract class Animal{
 	private String name;
 	private int age;
 	private double weight;
