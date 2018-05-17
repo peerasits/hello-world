@@ -52,7 +52,7 @@ class  Employee extends Person	{
 	
 	public void promote(String position, double money){
 		this.position = position;
-		salary = salary;
+		salary = money;
 	}
 	
 	public void printDetail() {
